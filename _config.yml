@@ -1,0 +1,7 @@
+title: Ruminations
+description: Personal blog. Views expressed are my own.
+theme: jekyll-theme-minimal
+
+header_pages:
+  - index.md
+  - about.md 
