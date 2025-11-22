@@ -5,8 +5,11 @@ SITEURL = ''
 PATH = 'content'
 OUTPUT_PATH = 'output'
 
-STATIC_PATHS = ['images', 'extra/CNAME']
-EXTRA_PATH_METADATA = {'extra/CNAME': {'path': 'CNAME'},}
+STATIC_PATHS = ['images', 'extra/CNAME', 'extra/favicon.png']
+EXTRA_PATH_METADATA = {
+    'extra/CNAME': {'path': 'CNAME'},
+    'extra/favicon.png': {'path': 'favicon.png'},
+}
 
 TIMEZONE = 'UTC'
 
