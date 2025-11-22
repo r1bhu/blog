@@ -5,6 +5,8 @@ SITEURL = '/blog'
 PATH = 'content'
 OUTPUT_PATH = 'output'
 
+STATIC_PATHS = ['images']
+
 TIMEZONE = 'UTC'
 
 DEFAULT_LANG = 'en'

@@ -2,12 +2,15 @@ Title: Welcome
 Date: 2024-05-24
 Status: hidden
 
-# Welcome to Ruminations.
+# Behold.
 
-This is a space where I explore ideas, share stories, and document my journey.
+I'm a grad student at Georgia Tech, majoring in Electrical and Computer Engineering. I love working on software that negotiates with hardware to enable shiny new use cases. I'm also interested in the intersection of AI and hardware.
 
-I write about technology, philosophy, and the occasional murder mystery riddle.
+I intend to write on a variety of topics: technology that interests me, philosophy, and on occasion, subjects that don't fall in either camp.
 
-<br>
+All views expressed are my own, and may have been revised since the time of writing. 
 
-*"The unexamined life is not worth living."*
+Here's an unflattering picture from a few years ago. 
+
+![Conf](images/itec_presentation.png)
+
