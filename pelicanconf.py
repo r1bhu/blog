@@ -1,11 +1,12 @@
 AUTHOR = 'User'
 SITENAME = 'Ruminations'
-SITEURL = '/blog'
+SITEURL = ''
 
 PATH = 'content'
 OUTPUT_PATH = 'output'
 
-STATIC_PATHS = ['images']
+STATIC_PATHS = ['images', 'extra/CNAME']
+EXTRA_PATH_METADATA = {'extra/CNAME': {'path': 'CNAME'},}
 
 TIMEZONE = 'UTC'
 
