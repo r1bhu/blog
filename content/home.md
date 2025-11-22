@@ -10,7 +10,3 @@ I intend to write on a variety of topics: technology that interests me, philosop
 
 All views expressed are my own, and may have been revised since the time of writing. 
 
-Here's an unflattering picture from a few years ago. 
-
-![Conf](images/itec_presentation.jpg)
-
