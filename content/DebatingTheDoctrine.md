@@ -1,5 +1,5 @@
 Title: Debating the Doctrine
-Date: 2024-05-22 10:00
+Date: 2021-05-22 10:00
 Category: General
 Summary: This is a sample post written in Markdown.
 

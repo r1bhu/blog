@@ -1,5 +1,5 @@
 Title: The Odd Mind Out
-Date: 2024-05-22 10:00
+Date: 2019-05-22 10:00
 Category: General
 Summary: This is a sample post written in Markdown.
 
