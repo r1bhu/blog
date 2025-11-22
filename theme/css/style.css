@@ -1,0 +1,133 @@
+:root {
+    --bg-color: #1a1a1a; /* Charcoal */
+    --text-color: #e0e0e0; /* Off-white */
+    --accent-color: #a0a0a0; /* Light Grey */
+    --link-color: #ffffff;
+    --border-color: #333333;
+    --font-main: 'Inter', sans-serif;
+}
+
+body {
+    background-color: var(--bg-color);
+    color: var(--text-color);
+    font-family: var(--font-main);
+    margin: 0;
+    line-height: 1.6;
+    font-weight: 300;
+}
+
+a {
+    color: var(--link-color);
+    text-decoration: none;
+    transition: opacity 0.2s;
+}
+
+a:hover {
+    opacity: 0.8;
+}
+
+.container {
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 0 20px;
+}
+
+header {
+    padding: 40px 0;
+    border-bottom: 1px solid var(--border-color);
+    margin-bottom: 40px;
+}
+
+header h1 {
+    margin: 0;
+    font-size: 1.5rem;
+    font-weight: 600;
+    letter-spacing: -0.02em;
+}
+
+header nav ul {
+    list-style: none;
+    padding: 0;
+    margin: 10px 0 0 0;
+    display: flex;
+    gap: 20px;
+}
+
+header nav a {
+    color: var(--accent-color);
+    font-size: 0.9rem;
+}
+
+/* Post List */
+.post-list {
+    list-style: none;
+    padding: 0;
+}
+
+.post-list li {
+    margin-bottom: 40px;
+    border-bottom: 1px solid var(--border-color);
+    padding-bottom: 40px;
+}
+
+.post-list li:last-child {
+    border-bottom: none;
+}
+
+.entry-title {
+    margin: 0 0 10px 0;
+    font-size: 1.8rem;
+    font-weight: 600;
+    letter-spacing: -0.03em;
+}
+
+.published {
+    color: var(--accent-color);
+    font-size: 0.85rem;
+    display: block;
+    margin-bottom: 15px;
+}
+
+.entry-content {
+    font-size: 1.05rem;
+}
+
+/* Single Post */
+.single-post .entry-title {
+    font-size: 2.5rem;
+    margin-bottom: 10px;
+}
+
+.single-post .entry-content h2 {
+    margin-top: 40px;
+    font-size: 1.5rem;
+    border-bottom: 1px solid var(--border-color);
+    padding-bottom: 10px;
+}
+
+.single-post .entry-content p {
+    margin-bottom: 20px;
+}
+
+.single-post .entry-content code {
+    background-color: #2a2a2a;
+    padding: 2px 5px;
+    border-radius: 3px;
+    font-family: monospace;
+}
+
+.single-post .entry-content pre {
+    background-color: #2a2a2a;
+    padding: 15px;
+    border-radius: 5px;
+    overflow-x: auto;
+}
+
+footer {
+    margin-top: 80px;
+    padding: 40px 0;
+    border-top: 1px solid var(--border-color);
+    text-align: center;
+    color: var(--accent-color);
+    font-size: 0.8rem;
+}
