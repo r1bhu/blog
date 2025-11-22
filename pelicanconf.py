@@ -1,6 +1,6 @@
 AUTHOR = 'User'
 SITENAME = 'Ruminations'
-SITEURL = 'blog'
+SITEURL = '/blog'
 
 PATH = 'content'
 OUTPUT_PATH = 'output'
