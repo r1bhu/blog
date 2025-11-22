@@ -23,7 +23,7 @@ AUTHOR_FEED_RSS = None
 
 # Blogroll
 LINKS = (('GitHub', '#'),
-         ('Twitter', '#'),)
+         ('LinkedIn', 'https://www.linkedin.com/in/ribhu-8848/'),)
 
 # Social widget
 SOCIAL = (('You can add links in your config file', '#'),
