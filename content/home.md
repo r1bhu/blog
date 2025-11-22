@@ -1,6 +1,6 @@
 Title: Welcome
 Date: 2024-05-24
-Save_as: index.html
+Status: hidden
 
 # Welcome to Ruminations.
 
