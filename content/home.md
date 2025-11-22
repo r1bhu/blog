@@ -12,5 +12,5 @@ All views expressed are my own, and may have been revised since the time of writ
 
 Here's an unflattering picture from a few years ago. 
 
-![Conf](images/itec_presentation.png)
+![Conf](.\\images\\itec_presentation.png)
 
