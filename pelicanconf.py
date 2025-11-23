@@ -1,5 +1,5 @@
 AUTHOR = 'User'
-SITENAME = 'Ruminations'
+SITENAME = 'Ribhu Das Purkayastha'
 SITEURL = ''
 
 PATH = 'content'
